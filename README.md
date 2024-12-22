@@ -79,7 +79,7 @@ And following is a nice little diagram to help visualize and understand more cle
    python manage.py runserver
 ```
 
-5. **Open** a browser at http://127.0.0.1:8000/ to check out the app.
+5. **Open** a browser at http://127.0.0.1:8000/auth/login to check out the app.
 
 ## Next Steps and Todo
 
